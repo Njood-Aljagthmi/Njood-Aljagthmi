@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Njood Aljagthmi </h1>
+<h1 align="center">Hi, I'm Njood Aljagthmi</h1>
 <h3 align="center">Data Scientist | AI Solutions Developer</h3>
 
 <p align="center">
@@ -8,29 +8,29 @@
 
 ---
 
-###  About Me
+### About Me
 
--  B.Sc. in **Information Technology** – King Abdulaziz University
--  **Agentic AI Bootcamp** – Saudi Digital Academy (SDA)
--  **1st Place** – Saudi Open-Source Hackathon (Sahabi)
--  I build end-to-end AI solutions: ML/DL models, RAG systems, AI agents, APIs and dashboards
-- 🇸🇦 Based in Saudi Arabia
+- B.Sc. in **Information Technology** – King Abdulaziz University
+- **Agentic AI Bootcamp** – Saudi Digital Academy (SDA)
+- **1st Place** – Saudi Open-Source Hackathon (Sahabi)
+- I build end-to-end AI solutions: ML/DL models, RAG systems, AI agents, APIs and dashboards
+- Based in Saudi Arabia
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-|  [**Evolyn – AI Tutoring Agent**](https://github.com/Njood-Aljagthmi/evolyn-ai-tutor) | Adaptive tutoring agent with placement quizzes, personalized learning paths, RAG chatbot, progress tracking and badges | FastAPI · React · LangChain · FAISS · SQLite |
-|  [**Sahabi**](https://github.com/Njood-Aljagthmi/sahabi-cloud-readiness)  | AI platform that analyzes source code and recommends a cloud migration strategy (6 R's), with an LLM chatbot aligned with DGA / NCA rules | FastAPI · Python · LLMs |
-|  [**Tayaqan**](https://github.com/SaraAlharbi1/Tayaqan-Certificate-Verification-System) | Blockchain-based academic certificate verification on Ethereum (graduation project) | Solidity · Django · React (TS) |
-|  [**Breast Cancer Classification**](https://github.com/Njood-Aljagthmi/breast-cancer-histopathology-classification) | Hierarchical DenseNet121 model classifying 8 tumor subtypes from 7,900+ histopathology images | TensorFlow · Keras · OpenCV |
-|  [**Near-Earth Objects Hazard Classification**](https://github.com/Njood-Aljagthmi/near-earth-objects-hazard-classification) | Random Forest classifier on 338,000+ NASA records (1910–2024) – **93% accuracy, 0.98 ROC-AUC** | Pandas · Scikit-learn · Seaborn |
+| [**Evolyn – AI Tutoring Agent**](https://github.com/Njood-Aljagthmi/evolyn-ai-tutor) | Adaptive tutoring agent with placement quizzes, personalized learning paths, RAG chatbot, progress tracking and badges | FastAPI · React · LangChain · FAISS · SQLite |
+| [**Sahabi**](https://github.com/Njood-Aljagthmi/sahabi-cloud-readiness) | AI platform that analyzes source code and recommends a cloud migration strategy (6 R's), with an LLM chatbot aligned with DGA / NCA rules | FastAPI · Python · LLMs |
+| [**Tayaqan**](https://github.com/SaraAlharbi1/Tayaqan-Certificate-Verification-System) | Blockchain-based academic certificate verification on Ethereum (graduation project) | Solidity · Django · React (TS) |
+| [**Breast Cancer Classification**](https://github.com/Njood-Aljagthmi/breast-cancer-histopathology-classification) | Hierarchical DenseNet121 model classifying 8 tumor subtypes from 7,900+ histopathology images | TensorFlow · Keras · OpenCV |
+| [**Near-Earth Objects Hazard Classification**](https://github.com/Njood-Aljagthmi/near-earth-objects-hazard-classification) | Random Forest classifier on 338,000+ NASA records (1910–2024) – **93% accuracy, 0.98 ROC-AUC** | Pandas · Scikit-learn · Seaborn |
 
 ---
 
-###  Skills & Tools
+### Skills & Tools
 
 **Languages**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -58,5 +58,3 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
